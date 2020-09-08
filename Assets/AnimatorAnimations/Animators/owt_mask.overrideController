@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: owt_mask
+  m_Controller: {fileID: 9100000, guid: 84ba4bacda9dda74d9f5937a988b168d, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 6939acdd18672b24e949f65ebb95a101, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 360a8c911835e5048ba419b8d76304f6, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 360d17d3db845434796ef6e3d105b334, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 21872eb4ed569f9489df5ffa1c939e09, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c464217e5d896914895c69707f08b0a0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5e86ed9401ef4394b931e27e18bab740, type: 2}

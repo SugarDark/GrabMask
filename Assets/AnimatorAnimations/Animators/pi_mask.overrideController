@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: pi_mask
+  m_Controller: {fileID: 9100000, guid: 624b24b175ebd864ea679ae353a375f6, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: df8c9b1754aabb041a2322c0bd60ab6f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e93cebccd7e9f93459d241c0432fd031, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e4eb8b04d730f8e49be0325433d5cacf, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b3cdfb5ef29e5414ca13fffc18a5c0e9, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d5b589a5021530e43b0ac84ccd895bc8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e92e30b1c9f80964d9ce9c82c20247a8, type: 2}

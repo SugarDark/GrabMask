@@ -1,0 +1,467 @@
+fileFormatVersion: 2
+guid: 06a15672164f1a84b962c39f6241479f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -194499296568253476
+    second: owl_walking_0
+  - first:
+      213: 5985038116275762784
+    second: owl_walking_1
+  - first:
+      213: 3529997711939732040
+    second: owl_walking_2
+  - first:
+      213: 5922314630069806044
+    second: owl_walking_3
+  - first:
+      213: -6452762670431128592
+    second: owl_walking_4
+  - first:
+      213: 72354986556080690
+    second: owl_walking_5
+  - first:
+      213: 5606834615028521161
+    second: owl_walking_6
+  - first:
+      213: 6358057581660954315
+    second: owl_walking_7
+  - first:
+      213: -6964641833886936181
+    second: owl_walking_8
+  - first:
+      213: -4501205644103407485
+    second: owl_walking_9
+  - first:
+      213: -5140791261329418358
+    second: owl_walking_10
+  - first:
+      213: -2457415115976357741
+    second: owl_walking_11
+  - first:
+      213: -9058251541359414085
+    second: owl_walking_12
+  - first:
+      213: -2957578822000487131
+    second: owl_walking_13
+  - first:
+      213: -1302445847502125987
+    second: owl_walking_14
+  - first:
+      213: 5085014715324428253
+    second: owl_walking_15
+  - first:
+      213: -8122086416623145578
+    second: owl_walking_16
+  - first:
+      213: 9008006458545675969
+    second: owl_walking_17
+  - first:
+      213: 9146336861979951303
+    second: owl_walking_18
+  - first:
+      213: -1351942225226895372
+    second: owl_walking_19
+  - first:
+      213: -152979521920727468
+    second: owl_walking_20
+  - first:
+      213: -3764912309459700410
+    second: owl_walking_21
+  - first:
+      213: 6925760391879429156
+    second: owl_walking_22
+  - first:
+      213: 3340646201882249252
+    second: owl_walking_23
+  - first:
+      213: 3018286999859470922
+    second: owl_walking_24
+  - first:
+      213: 7992564618876860297
+    second: owl_walking_25
+  - first:
+      213: -7856335819208229885
+    second: owl_walking_26
+  - first:
+      213: 1442645552213263751
+    second: owl_walking_27
+  - first:
+      213: 7957506977075958520
+    second: owl_walking_28
+  - first:
+      213: 494531090154807114
+    second: owl_walking_29
+  - first:
+      213: -840194440389124805
+    second: owl_walking_30
+  - first:
+      213: -6199147188328686284
+    second: owl_walking_31
+  - first:
+      213: -2919738568196075582
+    second: owl_walking_32
+  - first:
+      213: -4430980223960890101
+    second: owl_walking_33
+  - first:
+      213: 960259187652706803
+    second: owl_walking_34
+  - first:
+      213: 4444020763714336741
+    second: owl_walking_35
+  - first:
+      213: -758151744699709584
+    second: owl_walking_36
+  - first:
+      213: -2465598827842674541
+    second: owl_walking_0
+  - first:
+      213: -9047627493310529474
+    second: owl_walking_1
+  - first:
+      213: -7185928713347193259
+    second: owl_walking_2
+  - first:
+      213: -6266608864048012362
+    second: owl_walking_3
+  - first:
+      213: -437038666636137399
+    second: owl_walking_4
+  - first:
+      213: 8869232985494842428
+    second: owl_walking_5
+  - first:
+      213: -2234804812006566103
+    second: owl_walking_6
+  - first:
+      213: -5995257440106020672
+    second: owl_walking_7
+  - first:
+      213: 2338926757019043364
+    second: owl_walking_8
+  - first:
+      213: -8814281178621997780
+    second: owl_walking_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: owl_walking_0
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 33
+        width: 537
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39061dbedee68cdd0800000000000000
+      internalID: -2465598827842674541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_walking_1
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 39
+        width: 543
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e300b213bbe507280800000000000000
+      internalID: -9047627493310529474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_walking_2
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 39
+        width: 543
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55629ab68e3764c90800000000000000
+      internalID: -7185928713347193259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_walking_3
+      rect:
+        serializedVersion: 2
+        x: 3793
+        y: 39
+        width: 537
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3aa18a0788809a0800000000000000
+      internalID: -6266608864048012362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_walking_4
+      rect:
+        serializedVersion: 2
+        x: 5030
+        y: 39
+        width: 537
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cea02f5a35fe9f0800000000000000
+      internalID: -437038666636137399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_walking_5
+      rect:
+        serializedVersion: 2
+        x: 6261
+        y: 39
+        width: 538
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ce89ab868d51b70800000000000000
+      internalID: 8869232985494842428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_walking_6
+      rect:
+        serializedVersion: 2
+        x: 7499
+        y: 39
+        width: 543
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927d30e2dd06cf0e0800000000000000
+      internalID: -2234804812006566103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_walking_7
+      rect:
+        serializedVersion: 2
+        x: 8736
+        y: 39
+        width: 543
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c086795f119ccca0800000000000000
+      internalID: -5995257440106020672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_walking_8
+      rect:
+        serializedVersion: 2
+        x: 9973
+        y: 39
+        width: 537
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426c6cb4e79857020800000000000000
+      internalID: 2338926757019043364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_walking_9
+      rect:
+        serializedVersion: 2
+        x: 11210
+        y: 39
+        width: 537
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d03d5d7f16da580800000000000000
+      internalID: -8814281178621997780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

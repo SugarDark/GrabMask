@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: f7817444db56f954bb697c1cc543540d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3527709125142830086
+    second: owl_stand_0
+  - first:
+      213: 5832607385148817924
+    second: owl_stand_1
+  - first:
+      213: 5082985645757959461
+    second: owl_stand_2
+  - first:
+      213: 3767886398308433476
+    second: owl_stand_3
+  - first:
+      213: 7271912813359083729
+    second: owl_stand_4
+  - first:
+      213: 5222257414977171580
+    second: owl_stand_5
+  - first:
+      213: -2851247156447995172
+    second: owl_stand_6
+  - first:
+      213: -8846000223085590632
+    second: owl_stand_7
+  - first:
+      213: 3698569027182205002
+    second: owl_stand_8
+  - first:
+      213: -686863383675273495
+    second: owl_stand_9
+  - first:
+      213: 4237020373650756145
+    second: owl_stand_10
+  - first:
+      213: -9156329802934806115
+    second: owl_stand_11
+  - first:
+      213: 5681025304825758435
+    second: owl_stand_12
+  - first:
+      213: 8949240924591657383
+    second: owl_stand_13
+  - first:
+      213: 6457497263696201173
+    second: owl_stand_14
+  - first:
+      213: -4647033627949947175
+    second: owl_stand_15
+  - first:
+      213: -2437832296161009954
+    second: owl_stand_16
+  - first:
+      213: 7417400984323682927
+    second: owl_stand_17
+  - first:
+      213: -5597355763669172715
+    second: owl_stand_18
+  - first:
+      213: -7950234485601561054
+    second: owl_stand_19
+  - first:
+      213: 9000334010504557260
+    second: owl_stand_20
+  - first:
+      213: 2589698675808222077
+    second: owl_stand_21
+  - first:
+      213: 4291814324401062888
+    second: owl_stand_22
+  - first:
+      213: -1139850063858142659
+    second: owl_stand_23
+  - first:
+      213: -7042527142720466146
+    second: owl_stand_24
+  - first:
+      213: -6391022745939029797
+    second: owl_stand_25
+  - first:
+      213: -2227533927299172507
+    second: owl_stand_26
+  - first:
+      213: 4328346413176826771
+    second: owl_stand_27
+  - first:
+      213: -6940419256266525227
+    second: owl_stand_28
+  - first:
+      213: -388199700341926105
+    second: owl_stand_29
+  - first:
+      213: 5522184362031312612
+    second: owl_stand_30
+  - first:
+      213: 6755441067638909322
+    second: owl_stand_31
+  - first:
+      213: 6730330583993943059
+    second: owl_stand_32
+  - first:
+      213: -7402708764875665412
+    second: owl_stand_33
+  - first:
+      213: -9163263042155824464
+    second: owl_stand_34
+  - first:
+      213: 3602520820835188871
+    second: owl_stand_35
+  - first:
+      213: 2001438857291373043
+    second: owl_stand_36
+  - first:
+      213: -2252414710531504240
+    second: owl_stand_37
+  - first:
+      213: -6025959149446008288
+    second: owl_stand_38
+  - first:
+      213: 7247528724746424662
+    second: owl_stand_39
+  - first:
+      213: -7730158767918834904
+    second: owl_stand_40
+  - first:
+      213: 3556979924831108287
+    second: owl_stand_41
+  - first:
+      213: 5842084776083779461
+    second: owl_stand_42
+  - first:
+      213: -2569383221159589496
+    second: owl_stand_43
+  - first:
+      213: 4966016902472521024
+    second: owl_stand_44
+  - first:
+      213: -2414362799879199215
+    second: owl_stand_45
+  - first:
+      213: -6948472763745121462
+    second: owl_stand_46
+  - first:
+      213: -6118044049324901615
+    second: owl_stand_47
+  - first:
+      213: -527255868568446687
+    second: owl_stand_48
+  - first:
+      213: -4433442496199978583
+    second: owl_stand_49
+  - first:
+      213: -6718572248171459208
+    second: owl_stand_50
+  - first:
+      213: -1399883670077294588
+    second: owl_stand_51
+  - first:
+      213: 2575875843615707593
+    second: owl_stand_52
+  - first:
+      213: 4983750535283359869
+    second: owl_stand_0
+  - first:
+      213: -7595996829039816951
+    second: owl_stand_1
+  - first:
+      213: 498331867352559775
+    second: owl_stand_2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: owl_stand_0
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 37
+        width: 530
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d704ab0f4b6d92540800000000000000
+      internalID: 4983750535283359869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_stand_1
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 37
+        width: 536
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f861a1129959690800000000000000
+      internalID: -7595996829039816951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl_stand_2
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 37
+        width: 549
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f907ecd613e6ae600800000000000000
+      internalID: 498331867352559775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
